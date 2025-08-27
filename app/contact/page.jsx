@@ -99,7 +99,6 @@ export default function Contact() {
                 <Input
                   name="email"
                   type="email"
-                  name="email"
                   value={form.email}
                   onChange={onChange}
                   placeholder="Email address"
